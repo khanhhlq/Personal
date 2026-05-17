@@ -1,5 +1,5 @@
 .navbar-background{
-    display: flex;
+    display: flex; /* Flex */
     justify-content: center;    /* Ra giữa theo chiều ngang */
     align-items: center;      /* Ra giữa theo chiều dọc */
     /*  */
